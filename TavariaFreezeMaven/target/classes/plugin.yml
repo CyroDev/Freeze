@@ -1,0 +1,7 @@
+name: Freeze
+author: CyroDev
+main: me.cyro.freeze.Freeze
+version: 1.0
+
+commands:
+  start:
